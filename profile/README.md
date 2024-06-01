@@ -32,7 +32,7 @@ Our mission is to:
 
 ### **CONNECT**
 
-- real-world problems ←→ PSE cryptographic solutions
+- real-world problems ←→ cryptographic solutions
 - subject matter experts ←→ essential blockchain tools and technical expertise
 
 ### **COLLABORATE**

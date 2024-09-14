@@ -1,4 +1,4 @@
-# WHO WE ARE
+# Who we are
 
 We are a small team with a diverse skillset including design, engineering, community growth, and operations. We serve as a product accelerator, facilitating solutions to real-world problems with advanced blockchain technology. 
 
@@ -24,7 +24,7 @@ Reflecting our deep respect for the individual, we prioritize privacy at every l
 
 True innovation stems from collaboration. We believe in the power of communities and their ability to drive innovation, creativity, and collective action. However, technological advancements must be purposeful and aligned with the broader goal of improving people’s daily lives. We cultivate a culture of cooperation to promote innovations that have tangible and meaningful impact on the lives of individuals and communities around the world.
 
-# WHAT WE DO
+# What we do
 
 Pollen Labs accelerates the development and adoption of emergent public goods by making connections across the Ethereum ecosystem, facilitating cross-team collaborations, and providing the specific design / technical support that teams need to launch their projects. 
 
@@ -51,7 +51,7 @@ Our mission is to:
     - product awareness / community growth
 - ensure that teams are empowered to continue independently after collaboration timeframe
 
-# HOW WE WORK
+# How we work
 
 The Pollen Labs core team is continuously engaged with multiple emerging projects at various stages of development. The following outlines our workflow for each collaboration:
 
@@ -85,7 +85,7 @@ We continuously integrate these learnings to refine our collaborative workflows 
 
 
 
-### ADDENDUM
+### Addedum
 
 - Pollen Labs is a subgroup of [Privacy and Scaling Explorations (PSE)](https://pse.dev), an Ethereum Foundation supported research and development lab dedicated to testing use cases for cryptographic primitives.
 - We are a team that helps others to succeed; we are not an “addition” but a subtraction.
